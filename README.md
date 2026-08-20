@@ -50,7 +50,7 @@ etl_project/
 ```bash
 # Clone the repository
 git clone https://github.com/samaresmat/etl-exchange-rate.git
-cd etl-exchange-rates-pipeline
+cd etl-exchange-rate
 
 # Create and activate a virtual environment
 python -m venv venv
