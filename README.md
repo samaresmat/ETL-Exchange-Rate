@@ -49,7 +49,7 @@ etl_project/
 
 ```bash
 # Clone the repository
-git clone https://github.com/username/etl-exchange-rates-pipeline.git
+git clone https://github.com/samaresmat/etl-exchange-rate.git
 cd etl-exchange-rates-pipeline
 
 # Create and activate a virtual environment
